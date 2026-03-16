@@ -2,10 +2,20 @@
 
 Answer each question in 3 to 5 sentences. Be specific and honest about what actually happened while you worked. This is about your process, not trying to sound perfect.
 
-## 1. What was broken when you started?
+## 1. What was broken when you started? 
+Answer:
+Bugs In the Code:
+
+The number seems to be going out of bounds max is 100 but I was allowed to guess 105
+Also the game tells me to go higher when the number is lower
+The history of my guesses seem to be missing some 
+When the game ends seems to not let me start a new one
+Hint button not working 
+
 
 - What did the game look like the first time you ran it?
-- List at least two concrete bugs you noticed at the start  
+The game was running efficiently and I was able to type in the text box no problem. Howver I ran into some difficulties when I was submitting an answer then I saw the it was telling me to go higher when the number was lower. I also wasn't able to start a new game 
+- List at least two concrete bugs you noticed at the start  : I wasn't really able to identify any bugs right off the bat however I noticed that my history of guesses was missing some numbers. Also that when I was guessing the hint saying to go higher or lower was bugged and didn't help at all. 
   (for example: "the secret number kept changing" or "the hints were backwards").
 
 ---

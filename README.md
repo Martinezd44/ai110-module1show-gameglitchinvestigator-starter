@@ -28,10 +28,14 @@ It wrote the code, ran away, and now the game is unplayable.
 - [ ] Describe the game's purpose.
 - [ ] Detail which bugs you found.
 - [ ] Explain what fixes you applied.
+The games purpose is to have 7 guesses to guess a number between 1-100 depending on difficulty too.
+The bugs I found was the hint button was glitched giving false hints and the range of what number guesses you can give.
+The fixes I appilied for the hint it was just switched up so if we guessed to high we had to go lower not go higher just switch the texts then for the range I implemented a function.
 
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+![alt text](image-2.png)
 
 ## 🚀 Stretch Features
 
